@@ -1,13 +1,13 @@
 # mongodb-basics
 
 screenshots
-#mongod running
+#fig. mongod running (below)
 ![](mongod.png)
 
-#mongo running
+#fig. mongo running (below)
 
 ![](mongo.png)
 
-#server created
+#fig. server created (below)
 ![](createserver.png)
 
