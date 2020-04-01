@@ -11,3 +11,6 @@ screenshots
 #fig. server created (below)
 ![](createserver.png)
 
+#fig. collection created (below)
+![](hendrix.png)
+
