@@ -9,7 +9,7 @@ MongoClient.connect(url, {useNewUrlParser: true, useUnifiedTopology: true }, fun
     var dbmi = db.db("emeka_black_beard_");
 
     if (err) throw err;
-    console.log("Database created by")
+    console.log("Database created by emeka[black beard]")
     dbmi.createCollection("interns", function(err ,result){
         if (err) throw err;
         console.log("Intern Coollection has been created!");
